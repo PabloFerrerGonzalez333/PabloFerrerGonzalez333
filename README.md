@@ -1,70 +1,65 @@
-# Hi, I'm Pablo Ferrer González 👋
+<!-- Generado desde web/src/data/cv_data.json — diseño: plans/design-handoff/github-readme/.
+     No editar a mano: se regenera en la integración semanal del logbook. -->
 
-**Data Scientist** · AI Team @ SDG Group · University of Valencia (B.Sc. Data Science, Top 5%)
+# Pablo Ferrer González
 
-Currently building AI solutions at Santander within the Global Data Platform, working with Azure, Databricks, and PySpark. Passionate about ML engineering, MLOps, and turning data into production-ready value.
+![role](https://img.shields.io/badge/role-Data_Scientist-2D6A4F?style=flat-square)
+![at](https://img.shields.io/badge/at-SDG_Group_·_Santander-30363d?style=flat-square)
+![loc](https://img.shields.io/badge/loc-Madrid,_Spain-30363d?style=flat-square)
 
----
+Data Scientist with 4+ years of experience, currently on the AI team at SDG Group
+for Santander. I build production data systems — the kind where the hardest part is
+making them boring to operate.
 
-## 🛠️ Tech Stack
-
-**Data Science & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**Cloud & Data**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-**DevOps & Tools**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+*B.Sc. in Data Science · University of Valencia · Top 5% · GPA 8.5/10*
 
 ---
 
-## 🏆 Achievements
+## Currently
 
-| Competition | Result |
-|-------------|--------|
-| **Cajamar UniversityHack 2024** — National multi-month data science challenge | 🥇 Best AI solution (4th overall) |
-| **Visualization Contest 2021** — Chair of Gamification & Good Governance | 🥇 1st place |
-| **HackUPC 2023** — Polytechnic University of Catalonia | Participant |
+- Building ML/AI components on Santander's **Global Data Platform** (Azure, Databricks, PySpark)
+- End-to-end development of the **Enricher** component in PySpark
+- Training in `MLflow`, `RAG`, `FastAPI`, and **Prompt Engineering**
+- Goal: **Full Stack AI Engineer**
+
+## Stack
+
+| Category | Tools |
+|----------|-------|
+| Data Science | `Python` `PySpark` `TensorFlow` `FastAPI` `Streamlit` `R` |
+| Cloud & DB | `Databricks` `Azure` `AWS` `Snowflake` `PostgreSQL` `SQL` |
+| DevOps | `Git` `Jenkins` `GitHub Actions` `MLflow` `OpenShift` |
+
+## Highlights
+
+| 4th | 1st | 6 | 8.5 |
+|:---:|:---:|:---:|:---:|
+| Cajamar Datathon 2024<br>(best AI solution) | Visualization Contest<br>2021 | concurrent workstreams<br>managed at SDG | GPA — top 5%<br>UV Data Science |
+
+## Selected projects
+
+### [Career Portfolio](https://github.com/PabloFerrerGonzalez333/pablo_carreer)
+Bilingual personal website (ES/EN) with cover letter generator and PDF export.
+One JSON file drives everything. &nbsp;`Astro` `TypeScript` `CSS`
+
+### Cajamar UniversityHack 2024
+AI solution for time-series prediction. Best AI solution at the national datathon.
+&nbsp;`Python` `TensorFlow` `PySpark`
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-**AI & ML:** Deep Learning · TensorFlow Developer · MLOps (DeepLearning.AI) · Azure AI Fundamentals (Microsoft)
-
-**Data & Cloud:** Databricks Lakehouse · Snowflake Essentials · PySpark · Azure Data Engineer · Power BI Analyst · Amazon EC2
-
-**Other:** English C1 (Cambridge) · Network Analysis in R (DataCamp)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloFerrerGonzalez333&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFerrerGonzalez333&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+- **Deep Learning** · DeepLearning.AI
+- **TensorFlow Developer** · DeepLearning.AI
+- **MLOps** · DeepLearning.AI
+- **Azure AI Fundamentals** · Microsoft
+- **Databricks Lakehouse Platform** · Databricks
+- **Cambridge C1 Advanced**
 
 ---
 
-## 🔗 Connect
+> Spanish (native) · English (C1) · Catalan (C1) · French (A1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ferrer-gonzalez/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.ferrergonzalez.cd@gmail.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=astro&logoColor=white)](https://YOUR-SITE.vercel.app) -->
+[pablo.ferrergonzalez.cd@gmail.com](mailto:pablo.ferrergonzalez.cd@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/pablo-ferrer-gonzalez)
