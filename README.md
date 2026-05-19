@@ -7,7 +7,7 @@
 ![at](https://img.shields.io/badge/at-SDG_Group_·_Santander-30363d?style=flat-square)
 ![loc](https://img.shields.io/badge/loc-Madrid,_Spain-30363d?style=flat-square)
 
-Data Scientist with 4+ years of experience, currently on the AI team at SDG Group
+Data Scientist with 3+ years of experience, currently on the AI team at SDG Group
 for Santander. I build production data systems — the kind where the hardest part is
 making them boring to operate.
 
