@@ -19,7 +19,7 @@ hardest part is making them boring to operate.
 ## Currently
 
 - Building the analytics side of Santander's **Speech Analytics** platform on Azure Databricks & PySpark
-- Shipped **LLM Analytics** enhancements to production (Recuperaciones & Contact Center)
+- Shipped **LLM Analytics** enhancements to production.
 - Working with `RAG`, `Prompt Engineering`, `FastAPI`, and `MLflow`
 - Goal: **Full Stack AI Engineer**
 
@@ -37,26 +37,6 @@ hardest part is making them boring to operate.
 | 4th | 1st | 6 | 8.5 |
 |:---:|:---:|:---:|:---:|
 | Cajamar Datathon 2024<br>(best AI solution) | Visualization Contest<br>2021 | concurrent workstreams<br>managed at SDG | GPA — top 5%<br>UV Data Science |
-
-## Selected projects
-
-### [Quelque](https://github.com/PabloFerrerGonzalez333/Quelque)
-Web app that turns audio into downloadable transcripts and summaries. Multi-provider
-speech-to-text, never stores your API key. &nbsp;`Python` `faster-whisper` `LLM` `Streamlit`
-
-### [Aggity — UniversityHack 2024](https://github.com/PabloFerrerGonzalez333/Aggity)
-My solution to the Cajamar national datathon: lot-level industrial analytics and
-predictive modeling. Best AI solution; reached the final. &nbsp;`Python` `ML`
-
-### [Gamma](https://github.com/PabloFerrerGonzalez333/Gamma)
-End-to-end Data Science / MLOps pipeline for customer churn — automated feature
-engineering, MLflow tracking, production FastAPI serving. &nbsp;`MLflow` `FastAPI` `Poetry`
-
-### [Kappa](https://github.com/PabloFerrerGonzalez333/Kappa)
-Multivariate CO₂ forecasting with Darts: model benchmarking, reproducible artifacts,
-and a lightweight FastAPI app. &nbsp;`Darts` `time series` `FastAPI`
-
----
 
 ## Certifications
 
